@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on university thesis.
 - 🌱 I’m currently learning React and Typescript as well.
 - 👯 I’m looking to collaborate on some open source projects.
 - 💬 Ask me about soft skill stuff.
